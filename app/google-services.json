@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "883441554495",
+    "firebase_url": "https://oyinda.firebaseio.com",
+    "project_id": "firebase-oyinda",
+    "storage_bucket": "firebase-oyinda.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:883441554495:android:a8996ddf21560dee",
+        "android_client_info": {
+          "package_name": "com.adeoyeadela.censusappgdgyola"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "883441554495-l8du6r431gs1500tg0lmt0hpjs96cncl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adeoyeadela.censusappgdgyola",
+            "certificate_hash": "eb6835877936ca827f16d34c820e798271a47996"
+          }
+        },
+        {
+          "client_id": "883441554495-5enkuoc9psohgsrf14k9sfbdc4jglljv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwNkj3nKFtxrMtn2MTey9P3AxtfFDE9x8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "883441554495-5enkuoc9psohgsrf14k9sfbdc4jglljv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
